@@ -30,6 +30,7 @@ public class FurthestBuildingYouCanReach {
 
             currIdx++;
         }
+
         return currIdx;
     }
 
